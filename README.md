@@ -5,6 +5,7 @@ It provides interactive insights into sales, orders, customer behavior, and perf
 
 ---
 ## Dashboard
+![Dashboard]()
 
 ## 📈 Dashboard Overview  
 This project contains **6 charts** answering key business questions:  
