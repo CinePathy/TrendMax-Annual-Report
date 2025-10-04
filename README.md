@@ -1,11 +1,11 @@
-# 🛍️ TrendMax – Clothing Store Sales Dashboard  
+# 🛍️ ZUDIO – Clothing Store Sales Dashboard  
 
 📊 An **Excel-based dashboard** for analyzing **annual clothing industry sales (2025)**.  
 It provides interactive insights into sales, orders, customer behavior, and performance across channels & regions.  
 
 ---
 ## Dashboard
-![Dashboard]()
+![Dashboard](https://github.com/CinePathy/TrendMax-Annual-Report/blob/main/Dashboard_png.png?raw=true)
 
 ## 📈 Dashboard Overview  
 This project contains **6 charts** answering key business questions:  
