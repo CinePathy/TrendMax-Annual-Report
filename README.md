@@ -5,7 +5,7 @@ It provides interactive insights into sales, orders, customer behavior, and perf
 
 ---
 ## Dashboard
-![Dashboard](https://github.com/CinePathy/TrendMax-Annual-Report/blob/main/Dashboard_png.png?raw=true)
+![Dashboard](https://github.com/CinePathy/Zudio-Annual-Report/blob/main/dashboard_png.png?raw=true)
 
 ## 📈 Dashboard Overview  
 This project contains **6 charts** answering key business questions:  
